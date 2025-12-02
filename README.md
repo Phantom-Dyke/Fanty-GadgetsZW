@@ -22,7 +22,7 @@ Click below to fork Fanty-GadgetsZW to your GitHub account:
 
 ---
 
-## 🌌 Deployment Platforms
+## 🌌 Verified Support
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Phantom-Dyke/CYBORG-BOT/tree/main" target="_blank">
   <img alt="Heroku Deploy" src="https://img.shields.io/badge/-Heroku%20Deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white"/>
