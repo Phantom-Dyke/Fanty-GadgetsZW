@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=40&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=900&height=80&lines=FANTY-GADGETS;Mobile+Seller+Company+Ltd;Made+by+Agent-Dyke" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=40&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=900&height=80&lines=FANTY-GADGETS+ZW;Trusted+Mobile+Gadgets+Store+26%+Delivery;Deliveries+countrywide+at+affordable+prices;Powered+by+Fanty-zw" alt="Typing SVG" />
   </a> 
 </div> 
 
