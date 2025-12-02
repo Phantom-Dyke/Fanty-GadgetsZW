@@ -1,4 +1,4 @@
-# FANTY-GADGETS-ZW
+# FANTY-GADGETS-ZW🇿🇼
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
