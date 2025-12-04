@@ -13,8 +13,8 @@
 
 ---
 
-## 🍴 Fork This Repository
-Click below to fork Fanty-GadgetsZW to your GitHub account:
+## GADGETS AND PRICES 
+Click below to view Fanty-Gadgets pricelists, updates and delivery services:
 
 <a href="https://github.com/Phantom-Dyke/Fanty-GadgetsZW-" target="_blank">
   <img src="https://img.shields.io/badge/Available%20Gadgets%20Pricelist-100000?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo"/>
@@ -23,28 +23,9 @@ Click below to fork Fanty-GadgetsZW to your GitHub account:
 ---
 
 ## 🌌 Verified Support
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Phantom-Dyke/CYBORG-BOT/tree/main" target="_blank">
-  <img alt="Heroku Deploy" src="https://img.shields.io/badge/-Heroku%20Deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white"/>
-</a>
-<a href="https://bot-hosting.net/?aff=1068419752923508776" target="_blank">
-  <img alt="Bot Hosting Panel" src="https://img.shields.io/badge/Bothosting%20Panel-28a745?style=for-the-badge"/>
-</a>
-<a href="https://account.solarhosting.cc/" target="_blank">
-  <img alt="Solar Hosting" src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white"/>
-</a>
-<a href="https://daki.cc" target="_blank">
-  <img alt="Daki CC Panel" src="https://img.shields.io/badge/Daki_CC_PANEL-34495E?style=for-the-badge&logo=server&logoColor=darkorange"/>
-</a>
-<a href="https://optiklink.com/" target="_blank">
-  <img alt="Optik Link" src="https://img.shields.io/badge/Optik_Link_panel-2ECC71?style=for-the-badge&logo=server&logoColor=darkorange"/>
-</a>
-<a href="https://dashboard.katabump.com/auth/login#ce51a" target="_blank">
-  <img alt="Katabump Panel" src="https://img.shields.io/badge/Katabump_panel-D6B7D6?style=for-the-badge&logo=server&logoColor=lightblue"/>
-</a>
+   Coming soon..
 
 ---
-
 ## 📽️ Verified Unboxing..
 
 [![Watch Video](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/oewdMmpkUCM?si=o6vdNtDCX0R5O_re)  
