@@ -16,7 +16,7 @@
 ## GADGETS AND PRICES 
 Click below to view Fanty-Gadgets pricelists, updates and delivery services:
 
-<a href="https://github.com/Phantom-Dyke/Fanty-GadgetsZW-" target="_blank">
+<a href="https://phantom-dyke.github.io/Fanty-GadgetsZW" target="_blank">
   <img src="https://img.shields.io/badge/Available%20Gadgets%20Pricelist-100000?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo"/>
 </a>
 
