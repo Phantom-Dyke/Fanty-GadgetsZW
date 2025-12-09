@@ -43,3 +43,21 @@ footer {
   font-size: 14px;
 }
 ```
+.updates-button {
+  text-align: center;
+  margin: 20px;
+}
+
+.updates-button a {
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.updates-button a:hover {
+  background: #0056b3;
+}
+
