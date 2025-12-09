@@ -1,0 +1,24 @@
+
+
+html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>https://files.catbox.moe/kyl51f.jpg</title>
+</head>
+<body>
+  <h2>https://files.catbox.moe/kyl51f.jpg</h2>
+  <img id="image" src="" alt="Image" style="width:300px;">
+
+  <script>
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('image').src = data.imageUrl;
+      })
+      .catch(error => console.error('Error loading image:', error));
+  </script>
+</body>
+</html>
+
+---
