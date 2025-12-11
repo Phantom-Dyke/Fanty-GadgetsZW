@@ -20,6 +20,12 @@ products.forEach(product => {
   container.appendChild(card);
 });
 
+const products = [
+  { name: 'iPhone 13', price: 370, image: 'https://files.catbox.moe/kyl51f.jpg' },
+  { name: 'Samsung S22', price: 400, image: 'https://your-image-url.com/s22.jpg' },
+  // Add more products here...
+];
+
 
 const products = [
     { name: 'iPhone X', price: '180', image: 'images/iphone-x.jpg' ,
