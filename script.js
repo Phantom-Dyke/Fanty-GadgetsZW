@@ -1,3 +1,16 @@
+ document.addEventListener("DOMContentLoaded", () => {
+    const images = document.querySelectorAll(".product-card img");
+
+    images.forEach(img => {
+      const link = document.createElement("a");
+      link.href = img.src;
+      link.target = "_blank";
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+  });
+
+
 const container = document.getElementById('product-list');
 
 products.forEach(product => {
