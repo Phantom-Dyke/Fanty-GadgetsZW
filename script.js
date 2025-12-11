@@ -1,4 +1,27 @@
-  const products = [
+const container = document.getElementById('product-list');
+
+products.forEach(product => {
+  const card = document.createElement('div');
+  card.className = 'product-card';
+
+  // Fallbacks for missing image or price
+  const imgSrc = product.image || 'https://via.placeholder.com/150';
+  const name = product.name || 'Unnamed Product';
+  const price = product.price ? `
+    
+{product.price}` : 'N/A';
+
+  card.innerHTML = `
+    <img src="imgSrc" alt="{name}" style="width:100px;height:auto;">
+    <h3>name</h3>
+    <p style="color:green;"><strong>{price}</strong></p>
+  `;
+
+  container.appendChild(card);
+});
+
+
+const products = [
     { name: 'iPhone X', price: '180', image: 'images/iphone-x.jpg' ,
      name: 'iPhone XR', price: '210', image: 'images/iphone-xr.jpg' },
     { name: 'iPhone 11 64GB', price: '240', image: 'images/iphone11-64.jpg' ,
