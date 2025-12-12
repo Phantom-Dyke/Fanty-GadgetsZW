@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fanty Gadgets Store</title>
+  <title>Fanty Gadgets Gallery</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -11,18 +11,21 @@
     <h1>Fanty-Gadgets Gallery</h1>
     <p>Your plug for premium smartphones & accessories</p>
   </header>
--
-  <div class="updates-button">
-  <a href="updates.html">🔔 Check Updates</a>
+
+  <div class="button-group">
+    <button onclick="filterProducts('iphone')">iPhones</button>
+    <button onclick="filterProducts('samsung')">Samsung</button>
+    <button onclick="filterProducts('techno')">Techno & Others</button>
+    <button onclick="showUpdates()">📢 Check Updates</button>
   </div>
-- 
-<section id="product-list" class="product-grid"></section>
-<script src="script.js"></script>
-</body>
+
+  <div id="product-list"></div>
+
   <footer>
     <p>Visit us @ Century Mall M1-46 (FedEx Entrance) | Call: 0783497146</p>
     <p>© Fanty Gadgets Store</p>
   </footer>
 
+  <script src="script.js"></script>
 </body>
 </html>
