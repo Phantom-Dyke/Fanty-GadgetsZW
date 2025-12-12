@@ -1,4 +1,4 @@
-[12:38, 12/12/2025] ChatGPT: // Sample product data
+// Sample product data
 const products = [
   {
     name: "iPhone 13 Pro Max",
