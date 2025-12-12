@@ -54,3 +54,22 @@ function showUpdates() {
     </div>
   `;
 }
+function showModal(imageUrl, name, price) {
+  const modalHtml = `
+    <div class="modal-overlay" onclick="closeModal()">
+      <div class="modal-content" onclick="event.stopPropagation()">
+        <img src="imageUrl" alt="{name}">
+        <h2>name</h2>
+        <p>Price:${price}</p>
+        <button onclick="closeModal()">Close</button>
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML("beforeend", modalHtml);
+}
+
+function closeModal() {
+  const modal = document.querySelector(".modal-overlay");
+  if (modal) modal.remove();
+}s
+
