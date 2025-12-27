@@ -18,7 +18,13 @@
     <button onclick="filterProducts('techno')">Techno & Others</button>
     <button onclick="showUpdates()">📢 Check Updates</button>
   </div>
-
+<div class="controls">
+  <input type="text" id="searchBox" placeholder="Search product..." oninput="searchProducts()" />
+  <label class="switch">
+    <input type="checkbox" onchange="toggleDarkMode()">
+    <span class="slider round"></span>
+  </label>
+</div>
   <div id="product-list"></div>
 
   <footer>
@@ -28,4 +34,4 @@
 
   <script src="script.js"></script>
 </body>
-</html>
+    </html>
